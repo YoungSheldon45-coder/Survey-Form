@@ -1,0 +1,66 @@
+body {
+  background-color: #161616;
+}
+
+h1 {
+  text-align: center;
+  font-family: impact;
+  color: #FEFEFE;
+  font-size: 50px
+}
+
+p {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  font-family: Helvetica;
+  color: white
+}
+
+form{
+  background-color: #1F1F1F;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: verdana;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+}
+
+input[type="text"] {
+  width: 370px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+input[type="email"] {
+  width: 370px;
+  min-width: 150px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+input[type="number"] {
+  width: 370px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.gender-p {
+  margin-bottom: 4px
+}
+
+.improvements-p {
+  margin-bottom: 4px
+}
+
+label {
+  color: #7AAA22;
+}
+
+#other-improvements {
+  margin-top: 4px;
+  margin-bottom: 10px;
+}
